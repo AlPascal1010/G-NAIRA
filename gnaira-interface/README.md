@@ -39,7 +39,7 @@ Before you begin, ensure you have the following installed:
 ### Installation
 1. Clone this repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/gnaira-interface.git
+   git clone https://github.com/AlPascal1010/gnaira-interface.git
    cd gnaira-interface
    \`\`\`
 
@@ -76,10 +76,7 @@ Before you begin, ensure you have the following installed:
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
-GNaira etherscan link [https://sepolia.etherscan.io/address/0xe99fd05990b56bed58f76dd9b099f808d77f9db2]
-MultiSigWallet etherscan link [https://sepolia.etherscan.io/address/0xe99fd05990b56bed58f76dd9b099f808d77f9db2]
+[GNaira etherscan link] (https://sepolia.etherscan.io/address/0xe99fd05990b56bed58f76dd9b099f808d77f9db2)
+[MultiSigWallet etherscan link] (https://sepolia.etherscan.io/address/0xe99fd05990b56bed58f76dd9b099f808d77f9db2)

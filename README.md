@@ -39,7 +39,7 @@ Before you begin, ensure you have the following installed:
 ### Installation
 1. Clone this repository:
    \`\`\`bash
-   git clone https://github.com/AlPascal1010/gnaira-interface.git
+   git clone https://github.com/AlPascal1010/G-NAIRA.git
    cd gnaira-interface
    \`\`\`
 

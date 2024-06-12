@@ -78,5 +78,5 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 
 ---
 
-[GNaira etherscan link) (https://sepolia.etherscan.io/address/0xe99fd05990b56bed58f76dd9b099f808d77f9db2)
+[GNaira etherscan link] (https://sepolia.etherscan.io/address/0xe99fd05990b56bed58f76dd9b099f808d77f9db2)
 [MultiSigWallet etherscan link] (https://sepolia.etherscan.io/address/0xe99fd05990b56bed58f76dd9b099f808d77f9db2)
